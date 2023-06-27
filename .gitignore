@@ -1,0 +1,17 @@
+# Cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.ipynb_checkpoints/
+
+# Extern depedencies
+venv/
+env/
+lib/
+include/
+bin/
+pip-selfcheck.json
